@@ -1,0 +1,6 @@
+first we will have to install 'virtualenv' package.
+then after installing the package you will navigate to the folder where you will have to create the virtual environment,
+after navigating to the folder we will create virtual environment there by running following command 'python3 -m venv .venv'
+here '.venv' is the name of the virtual environment.
+then to activate the virtual environment you will have to run the following command '.\env_name\Scripts\activate'
+to deactivate the virtual environment you will just have to type 'deactivate' then you will get back in the normal env.
